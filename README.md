@@ -51,11 +51,11 @@ DELETE /tournaments/{tournament_id}
 }
 ```
 
-GET /match_results?tournament_id={tournament_id}
-POST /match_result
-GET /match_result/{match_result_id}
-UPDATE /match_result/{match_result_id}
-DELETE /match_result/{match_result_id}
+GET /match_results?tournament_id={tournament_id}  
+POST /match_result  
+GET /match_result/{match_result_id}  
+UPDATE /match_result/{match_result_id}  
+DELETE /match_result/{match_result_id}  
 
 ## Player
 ```
