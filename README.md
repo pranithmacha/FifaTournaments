@@ -28,11 +28,11 @@
 }
 ```
 
-GET /tournaments
-POST /tournaments
-GET /tournaments/{tournament_id}
-UPDATE /tournaments/{tournament_id}
-DELETE /tournaments/{tournament_id}
+GET /tournaments  
+POST /tournaments  
+GET /tournaments/{tournament_id}  
+UPDATE /tournaments/{tournament_id}  
+DELETE /tournaments/{tournament_id}  
 
 
 ## Match result
