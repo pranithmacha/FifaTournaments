@@ -44,7 +44,7 @@ DELETE /tournaments/{tournament_id}
   players: [player1, player2]
   score: {
       player1: 2
-      player2: 5
+      player2: 2
   }
   result: result decided 
   winner: undecided 
